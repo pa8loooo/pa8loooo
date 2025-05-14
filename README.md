@@ -1,4 +1,4 @@
-## Hi there 👋
+## print("Hello, World!")
 
 <!--
 **pa8loooo/pa8loooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
