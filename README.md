@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pablo Campos, tenho 19 anos e sou do DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas | 2° Semestre. Sempre gostei muito de tecnologia e estou em constante aprendizado.
+Me chamo Pablo Campos, tenho 19 anos e sou do DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas | 2° Semestre, atualmente trabalhando na "[Thinkor](https://github.com/thinkor-lab)". Sempre gostei muito de tecnologia e estou em constante aprendizado. 
 
 ### 👨‍💻 Linguagens e Tecnologias
 
@@ -65,8 +65,8 @@ Me chamo Pablo Campos, tenho 19 anos e sou do DF. Atualmente, estou cursando An�
 />
 <img 
     align="left" 
-    alt="Ruby" 
-    title="Ruby"
+    alt="Rails" 
+    title="Rails"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" 
