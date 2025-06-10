@@ -87,13 +87,7 @@ Me chamo Pablo Campos, tenho 19 anos e sou do DF. Atualmente, estou cursando An√
 
 <img 
     align="left" 
-    height="150px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pa8loooo&show_icons=true&theme=dracula&include_all_commits=true" 
-/>
-<img 
-    align="left" 
-    height="150px" 
+    height="200px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa8loooo&theme=dracula&layout=compact" 
 />
