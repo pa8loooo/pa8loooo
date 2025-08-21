@@ -6,7 +6,7 @@ Me chamo Pablo, tenho 19 anos e sou do DF. Atualmente, estou cursando Análise e
   <img 
     alt="me on computer"
     title="me on computer"
-    width="300px"
+    width="150px"
     src="https://i.pinimg.com/originals/1e/f9/9c/1ef99c60dce28ec8a9cbedb85f4e2656.gif"
   />
 </p>
