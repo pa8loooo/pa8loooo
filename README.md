@@ -2,13 +2,14 @@
 
 Me chamo Pablo, tenho 19 anos e sou do DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas | 3° Semestre, atualmente trabalhando na [Thinkor](https://github.com/thinkor-lab). Trabalho principalmente com Ruby on Rails/React. Estou em constante aprendizado, gosto muito de aprender na área e de aprimorar minhas habilidades.  
 
-<img
-    text-align="center"
+<p align="center">
+  <img 
     alt="me on computer"
     title="me on computer"
-    widht="300px"
+    width="300px"
     src="https://i.pinimg.com/originals/1e/f9/9c/1ef99c60dce28ec8a9cbedb85f4e2656.gif"
-/>
+  />
+</p>
 
 ### 👨‍💻 Linguagens e Tecnologias
 
