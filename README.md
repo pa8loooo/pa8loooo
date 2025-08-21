@@ -6,7 +6,7 @@ Me chamo Pablo, tenho 19 anos e sou do DF. Atualmente, estou cursando Análise e
   <img 
     alt="me on computer"
     title="me on computer"
-    width="150px"
+    width="250px"
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YxdWZ0MXIzZW50bTRvZGZzZ29iYWIzbHdqMzA1ZWRkZTkwaDJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"
   />
 </p>
