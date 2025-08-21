@@ -4,6 +4,14 @@ Me chamo Pablo, tenho 19 anos e sou do DF. Atualmente, estou cursando Análise e
 
 ### 👨‍💻 Linguagens e Tecnologias
 
+<img
+    align="center"
+    alt="me on computer"
+    title="me on computer"
+    widht="300px"
+    src="https://i.pinimg.com/originals/1e/f9/9c/1ef99c60dce28ec8a9cbedb85f4e2656.gif"
+/>
+
 <img 
     align="left" 
     alt="HTML"
