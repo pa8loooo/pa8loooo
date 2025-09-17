@@ -1,6 +1,6 @@
-# 💿 Pablo Lavinas
+# 🖳 Pablo Lavinas
 
-Me chamo Pablo, tenho 19 anos e sou do DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas | 3° Semestre, trabalhando na [Thinkor](https://github.com/thinkor-lab). Trabalho principalmente com Ruby on Rails/React. Estou em constante aprendizado, gosto muito de aprender na área e de aprimorar minhas habilidades.  
+Me chamo Pablo, tenho 19 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas, e trabalho na [Thinkor](https://github.com/thinkor-lab). Trabalho principalmente com Ruby on Rails/React. Estou em constante aprendizado, gosto muito dessa área e sou apaixonado por games/tecnologia
 
 <p align="center">
   <img 
