@@ -6,7 +6,7 @@
   <h3>🎱 About Me <a href="https://www.instagram.com/pa8loooooooooooo/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="25" height="20" alt="instagram logo" />
   </a></h3>
-  <p> - 💻 I'm Pablo, from Brazil</p>
+  <p> - 💻 I'm Pablo Lavinas, from Brazil</p>
   <p> - 👩‍💻 Currently studying and improving my programming skills</p>
   <p> - 🎮 In my free time I like play some games & skateboard</p>
 </div>
