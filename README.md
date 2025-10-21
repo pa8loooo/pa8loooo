@@ -8,7 +8,7 @@
   </a></h3>
   <p> - 💻 I'm Pablo Lavinas, from Brazil</p>
   <p> - 👩‍💻 Currently studying and improving my programming skills</p>
-  <p> - 🎮 In my free time I like play some games & skateboard</p>
+  <p> - 🎮 In my free time I like play some games, coding & skateboard</p>
 </div>
 
 ###
