@@ -10,12 +10,20 @@
   <p> - 👩‍💻 Currently studying and improving my programming skills</p>
   <p> - 🎮 In my free time I like play some games, coding & skateboard</p>
 </div>
+<br>
+<br>
 
 ###
 
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+
+<div align=center>
+  <h2>💾 Languages & Techs</h1>
+</div>
+<br>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo"  />
