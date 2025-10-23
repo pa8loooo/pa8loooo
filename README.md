@@ -11,7 +11,6 @@
   <p> - 🎮 In my free time I like play some games, coding & skateboard</p>
 </div>
 <br>
-<br>
 
 ###
 
