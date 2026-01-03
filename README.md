@@ -3,21 +3,18 @@
 ###
 
 <div align="center">
-  <h3>🎱 About Me <a href="https://www.instagram.com/pa8loooooooooooo/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="25" height="20" alt="instagram logo" />
+  <h3>💭 About Me <a href="https://www.instagram.com/pa8loooooooooooo/">
   </a></h3>
   <p> - 💻 I'm Pablo Lavinas, from Brazil</p>
   <p> - 👩‍💻 Currently studying and improving my programming skills</p>
-  <p> - 🎮 In my free time I like play some games, coding & skateboard</p>
+  <p> - ⚛️ Web Developer </p>
 </div>
-<br>
 
 ###
 
 <div align=center>
   <h2>💾 Languages & Techs</h1>
 </div>
-<br>
 <br>
 
 <div align="center">
@@ -39,12 +36,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"  />
   <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pa8loooo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
