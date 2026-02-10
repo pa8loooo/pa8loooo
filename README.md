@@ -13,7 +13,7 @@
 ###
 
 <div align=center>
-  <h2>💾 Languages & Techs</h1>
+  <h2>💾 Techs </h1>
 </div>
 <br>
 
