@@ -1,47 +1,13 @@
-<h1 align="center">👾 Welcome!</h1>
+# 👨‍💻 About Me:
+💻 Currently studying & improving my skills<br>🎯 Focus on Web Development<br>💾 Tech passionate<br><br>[![Portfólio](https://img.shields.io/badge/➤Meu_Portfolio-000000?style=for-the-badge)](pablolavinas.vercel.app)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pa8loooo&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pa8loooo&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pa8loooo&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=pa8loooo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <h3>💭 About Me <a href="https://www.instagram.com/pa8loooooooooooo/">
-  </a></h3>
-  <p> - 💻 I'm Pablo Lavinas, from Brazil</p>
-  <p> - 👩‍💻 Currently studying and improving my programming skills</p>
-  <p> - ⚛️ Web Developer </p>
-</div>
-
-###
-
-<div align=center>
-  <h2>💾 Techs </h1>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="60" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
