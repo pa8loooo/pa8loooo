@@ -69,7 +69,7 @@ STATUS   : Leveling up skills daily 🚀
 
 ```bash
 [INFO] Personal projects, experiments and case studies loaded.
-[INFO] Access the portfolio through the link below (in construction).
+[INFO] Access the portfolio through the link below (under construction).
 ````
 <div align="center">
 
